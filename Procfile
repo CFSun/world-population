@@ -1,0 +1,1 @@
+web: voila --port=$PORT --no-browser --template=material --theme=blue --enable_nbextensions=True notebooks/World_Population.ipynb
