@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser  notebooks/World_Population.ipynb
+web: voila --port=$PORT --no-browser --template=material --enable_nbextensions=True notebooks/World_Population.ipynb 
