@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser notebooks/voila.ipynb
+web: voila --port=$PORT --no-browser  theme=blue --template=material notebooks/voila.ipynb
