@@ -1,14 +1,16 @@
 # DA501 DEMO
 
-World Population to practice:
+This World Population demonstrates:
 
- 1. jupyter notebook widgets
+ 1. use jupyter notebook widgets
 
  2. use voila to test interactive 
 
- 3. github (with python code)
+ 3. store code in github repo
 
- 4. Keroku Web publish
+ 4. deploy app in Keroku Web host
+   
+https://world-population.herokuapp.com/  
 
 Have Fun!
 
